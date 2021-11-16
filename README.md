@@ -1,7 +1,16 @@
 # assignment-3-part-3
 Internet Computing Assignment 3 Part 3
 
+Steps to run the application:
 
+1. Make sure you have Java installed on your computer.
+2. Install eclipse, and editor for writing Java applications.
+3. On the left hand side of the eclipse editor click on file option.
+4. Select "open application folder from computer".
+5. After selecting the folder, right click on the main folder visible on the left hand side work space of application.
+6. Click on Run as -> Java Application.
+
+----------------------------------------------------------------------------------------------------------------------------------
 
 StAX is a Java-based API to parse XML document in a similar way as SAX parser does. But there are two major difference between the two APIs −
 
